@@ -1,5 +1,5 @@
 # EJ_dashboard
 
+![Alt text](/dashboard.png "dashboard")
 
-<img src="/dashboard.png" alt="Alt text" title="dashboard">
 
