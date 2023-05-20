@@ -1,5 +1,5 @@
 # EJ_dashboard
 
-![Alt text](/dashboard.png "dashboard")
+![Alt text](dashboard.png "dashboard")
 
 
