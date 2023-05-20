@@ -5,3 +5,4 @@
 
 
 ![Dashboard]("https://github.com/CharlotteGIS/EJ_dashboard/blob/main/dashboard.PNG?raw=true "Dashboard")
+![Dashboard](https://github.com/CharlotteGIS/EJ_dashboard/blob/main/dashboard.PNG "Dashboard")
