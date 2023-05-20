@@ -1,5 +1,5 @@
 # EJ_dashboard
 
 
-<img src="/output/dashboard.png" alt="Alt text" title="Optional title">
+<img src="/dashboard.png" alt="Alt text" title="dashboard">
 
