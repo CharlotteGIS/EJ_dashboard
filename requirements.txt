@@ -1,0 +1,7 @@
+panel
+hvplot
+pandas
+geopandas
+folium
+pyepsg
+proj 

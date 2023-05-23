@@ -1,4 +1,4 @@
-name: panel
+name: egm722
 channels:
   - conda-forge
   - defaults
