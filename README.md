@@ -1,4 +1,4 @@
-# EJ_dashboard
+# Environmental and Social Statistics Dashboard
 
 This repository contains the code for an interactive dashboard created with the panel / holoviz framework.
 The Environmental Justice Dashboard visualizes the results of a wider study related to the topic of environmental justice. 
