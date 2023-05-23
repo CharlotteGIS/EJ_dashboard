@@ -3,6 +3,6 @@ hvplot
 pandas
 geopandas
 folium
-cartopy>=0.21
+cartopy==0.20.1
 pyepsg
 proj 
