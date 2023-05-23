@@ -3,5 +3,4 @@ hvplot
 pandas
 geopandas
 folium
-cartopy>=0.21
 pyepsg
